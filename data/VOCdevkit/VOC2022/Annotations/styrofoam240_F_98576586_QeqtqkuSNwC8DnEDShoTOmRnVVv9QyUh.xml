@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3cea397d5b31edd853c2112724598081</folder>
+	<filename>styrofoam240_F_98576586_QeqtqkuSNwC8DnEDShoTOmRnVVv9QyUh.jpg</filename>
+	<path>3cea397d5b31edd853c2112724598081/styrofoam240_F_98576586_QeqtqkuSNwC8DnEDShoTOmRnVVv9QyUh.jpg</path>
+	<source>
+		<database>datature.io</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>styrofoam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90.0</xmin>
+			<ymin>25.0</ymin>
+			<xmax>335.0</xmax>
+			<ymax>215.0</ymax>
+		</bndbox>
+	</object>
+</annotation>

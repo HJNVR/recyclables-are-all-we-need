@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3cea397d5b31edd853c2112724598081</folder>
+	<filename>canmetal579.jpg</filename>
+	<path>3cea397d5b31edd853c2112724598081/canmetal579.jpg</path>
+	<source>
+		<database>datature.io</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92.0</xmin>
+			<ymin>9.0</ymin>
+			<xmax>185.0</xmax>
+			<ymax>180.0</ymax>
+		</bndbox>
+	</object>
+</annotation>

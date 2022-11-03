@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3cea397d5b31edd853c2112724598081</folder>
+	<filename>plastic_bottlemanually-download-plastic-bottle07.jpg</filename>
+	<path>3cea397d5b31edd853c2112724598081/plastic_bottlemanually-download-plastic-bottle07.jpg</path>
+	<source>
+		<database>datature.io</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>408</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plastic_bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32.0</xmin>
+			<ymin>78.0</ymin>
+			<xmax>582.0</xmax>
+			<ymax>319.0</ymax>
+		</bndbox>
+	</object>
+</annotation>

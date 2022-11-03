@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3cea397d5b31edd853c2112724598081</folder>
+	<filename>paper_cup00000205.jpg</filename>
+	<path>3cea397d5b31edd853c2112724598081/paper_cup00000205.jpg</path>
+	<source>
+		<database>datature.io</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39.0</xmin>
+			<ymin>126.0</ymin>
+			<xmax>239.0</xmax>
+			<ymax>277.0</ymax>
+		</bndbox>
+	</object>
+</annotation>

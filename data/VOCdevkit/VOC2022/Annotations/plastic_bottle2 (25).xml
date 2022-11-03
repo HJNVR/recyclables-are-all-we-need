@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3cea397d5b31edd853c2112724598081</folder>
+	<filename>plastic_bottle2 (25).jpg</filename>
+	<path>3cea397d5b31edd853c2112724598081/plastic_bottle2 (25).jpg</path>
+	<source>
+		<database>datature.io</database>
+	</source>
+	<size>
+		<width>430</width>
+		<height>390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plastic_bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>126.0</xmin>
+			<ymin>118.0</ymin>
+			<xmax>334.0</xmax>
+			<ymax>210.0</ymax>
+		</bndbox>
+	</object>
+</annotation>
