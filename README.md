@@ -23,5 +23,10 @@ Pipeline has to follow:
 - Official Website is here: https://www.datature.io/
 - We use Datature to do annotations, train and compare model performances
 	- please check `Datature` folder for performance image
+	- model checkpoints link : https://drive.google.com/drive/folders/1NAavLOxcnSC2QbIeSpcmH9Yi-PL7nilO?usp=share_link
 
-## 
+## SSD Mobilenet
+- sample result
+<p align="center">
+<img src="a22_prediction.png" align="center" width="100%" style="margin: 0 auto">
+</p>
