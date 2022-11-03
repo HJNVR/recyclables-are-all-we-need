@@ -28,5 +28,5 @@ Pipeline has to follow:
 ## SSD Mobilenet
 - sample result
 <p align="center">
-<img src="a22_prediction.png" align="center" width="100%" style="margin: 0 auto">
+<img src="./prediction_result/a22_prediction.png" align="center" width="100%" style="margin: 0 auto">
 </p>
